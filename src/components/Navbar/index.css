@@ -1,0 +1,11 @@
+.navbar-container {
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  height: 10vh;
+  background-color: #f1f5f9;
+}
+.tech-era-logo {
+  height: 40px;
+  width: 120px;
+}

@@ -1,0 +1,12 @@
+.home-container {
+  height: 100vh;
+}
+.courses-container {
+  height: 85vh;
+  padding: 25px;
+  font-family: 'Roboto';
+}
+.courses-heading {
+  font-size: 25px;
+  font-weight: bold;
+}
